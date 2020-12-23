@@ -28,7 +28,7 @@ HEADERS += \
     include/TabToolbar/Group.h \
     include/TabToolbar/SubGroup.h \
     include/TabToolbar/StyleTools.h \
-    include/TabToolbar/Styles.h
+    include/TabToolbar/Styles.h \
     src/TabToolbar/ToolButtonStyle.h
 
 RESOURCES += \
