@@ -59,14 +59,11 @@ White Mercy style on Windows 10:
 Building
 -------------
 
-TabToolbar uses **CMake** and depends on **Qt >= 5.3**.
-A simple example project of how to use TabToolbar is included, but is by default not included in build.
+TabToolbar uses **QMake** and depends on **Qt >= 5.3**.
+A simple example project of how to use TabToolbar is included.
 
 Usage
 -------------
-
-To link TabToolbar to your project, you can use provided `FindTabToolbar` cmake module, which defines `TabToolbar_LIBRARY` variable
-that you can feed to your `target_link_libraries` command.
 
 An example project is also included in **examples/Test** subdirectory, please refer to it if you have any troubles.
 	
